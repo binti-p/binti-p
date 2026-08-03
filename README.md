@@ -12,7 +12,7 @@
  
 data, backend systems, and ML pipelines.
 
-**[featured project](https://github.com/binti-p/immich-aesthetic-ranking):** an aesthetic ranking feature for [Immich](https://github.com/immich-app/immich), an open-source self-hosted photo server. Immich sorts your library by timestamp — this adds a model that scores images by aesthetic quality and retrains per-user as they rate photos, so the gallery surfaces the good shots instead of just the recent ones. full pipeline: training, serving, and integration into Immich's stack.
+**[featured project](https://github.com/binti-p/immich):** an aesthetic ranking feature for [Immich](https://github.com/immich-app/immich), an open-source self-hosted photo server. Immich sorts your library by timestamp — this adds a model that scores images by aesthetic quality and retrains per-user as they rate photos, so the gallery surfaces the good shots instead of just the recent ones. full pipeline: training, serving, and integration into Immich's stack.
 
 ---
 
@@ -76,12 +76,10 @@ data, backend systems, and ML pipelines.
 
 #### Cloud & DevOps
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
