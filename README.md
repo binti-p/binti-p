@@ -12,7 +12,9 @@
  
 data, backend systems, and ML pipelines.
 
-**[featured project](https://github.com/binti-p/immich):** an aesthetic ranking feature for [Immich](https://github.com/immich-app/immich), an open-source self-hosted photo server. Immich sorts your library by timestamp — this adds a model that scores images by aesthetic quality and retrains per-user as they rate photos, so the gallery surfaces the good shots instead of just the recent ones. full pipeline: training, serving, and integration into Immich's stack.
+**[project feature!](https://github.com/binti-p/immich)** 
+
+an aesthetic ranking feature for [Immich](https://github.com/immich-app/immich), an open-source self-hosted photo server. Immich sorts your library by timestamp — this adds a model that scores images by aesthetic quality and retrains per-user as they rate photos, so the gallery surfaces the good shots instead of just the recent ones. full pipeline: training, serving, and integration into Immich's stack.
 
 ---
 
@@ -109,6 +111,6 @@ always happy to meet new people — whether it's talking about projects, teaming
 ### for employers:
 
 > looking for **winter internships / new grad roles** in software engineering, data engineering
-> [download my resume](https://yourdomain.com/resume.pdf) · [see my projects below](https://github.com/binti-p?tab=repositories)
+> [download my resume]([https://yourdomain.com/resume.pdf](https://raw.githubusercontent.com/binti-p/binti-p/main/blob/Resume_BintiPadaliya.pdf)) · [see my projects below](https://github.com/binti-p?tab=repositories)
 
 </div>
