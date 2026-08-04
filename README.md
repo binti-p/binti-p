@@ -111,6 +111,6 @@ always happy to meet new people — whether it's talking about projects, teaming
 ### for employers:
 
 > looking for **winter internships / new grad roles** in software engineering, data engineering
-> [download my resume]([https://yourdomain.com/resume.pdf](https://raw.githubusercontent.com/binti-p/binti-p/main/blob/Resume_BintiPadaliya.pdf)) · [see my projects below](https://github.com/binti-p?tab=repositories)
+> [download my resume](https://raw.githubusercontent.com/binti-p/binti-p/main/blob/Resume_BintiPadaliya.pdf) · [see my projects](https://github.com/binti-p?tab=repositories)
 
 </div>
